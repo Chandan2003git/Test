@@ -63,3 +63,6 @@ This dashboard enables stakeholders to:
 - Optimize outlet-level inventory and operations  
 - Support strategic planning using data-backed insights
 
+#Snap of dashboard
+![Image](https://github.com/user-attachments/assets/b01bf702-447a-4696-b5de-cd59b7975e1c)
+
